@@ -1,4 +1,5 @@
-title: "My Awesome Site"
-description: "A site about awesome things"
+title: My Awesome Site
+description: A site about awesome things
 baseurl: "" # Leave this blank if using a custom domain
-url: "https://statstree.io" # The full URL to your site
+# url: "https://statstree.io" # The full URL to your site
+theme: jekyll-theme-minimal
